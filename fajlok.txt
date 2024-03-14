@@ -1,0 +1,1 @@
+Ha a javascript és css külön fájlban van, akkor 'static' fájlba kell tenni és ugyanúgy kell hivatkozni rájuk, mint a képekre. 
